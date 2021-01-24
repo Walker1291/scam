@@ -1,11 +1,6 @@
 # Scam_Hakashi-framework
     Scam_Hakashi-framework by @Werbert_Oscar :3
     Scam_Hakashi-framework 2021:2023 :3
-    
-# Usar:
-
-![Screenshot_20191129-213040_Termux](https://user-images.githubusercontent.com/46208706/69895128-b2889280-12ef-11ea-99a4-cb123778820e.jpg)
-
 
  # Exemplo
  #### Phishing | ingeniería social :) auto liker falso | auto suscriptores falso
