@@ -2,8 +2,8 @@
 R='\033[1;31m'                                                        G='\033[1;32m'                                                        Y='\033[1;33m'                                                        B='\033[1;34m'                                                        M='\033[1;35m'                                                        C='\033[1;36m'                                                        W='\033[0m'
 
 if [ ! -e ~/scam ]; then
-echo -e "$G[$Y!$G]$W Scam no esta instalado en HOME"
-echo -e "$G[$Y!$G]$W porfavor instalanos en HOME :3"
+echo -e "$G[$Y!$G]$W Scam_Hakashi não está instalado em HOME"
+echo -e "$G[$Y!$G]$W porfavor instale em HOME :3"
 exit
 fi
 echo -e "$G[+]$W Instalando requisitos..."
@@ -34,20 +34,20 @@ sudo apt-get install -y wget &>> /dev/null
 fi
 
 
-chmod 700 ~/scam/phishing.sh
+chmod 700 ~/scam_Hakashi/phishing.sh
 echo $(clear)
 sleep 2
 echo
 echo
 echo
-echo -e "$G[+]$W Finished!"
+echo -e "$G[+]$W Finalizado!"
 sleep 0.8
-echo -e "$G[+]$W Created by @CesarHackGray"
+echo -e "$G[+]$W Criado por @Werbert_Oscar"
 sleep 0.7
-echo -e "$G[+]$W Contactame https://t.me/CesarGray"
+echo -e "$G[+]$W Contato https://wa.me/558681787294"
 sleep 0.4
-echo -e "$G[+]$W Usage: ./phishing.sh [option]"
-rm -rf ~/scam/install.sh
+echo -e "$G[+]$W Use para ver opções: ./phishing.sh [opção]"
+rm -rf ~/scam_Hakashi/install.sh
 echo
 echo
 exit 3
