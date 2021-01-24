@@ -1,4 +1,4 @@
-# Scam_Hakashi-framework
+# scam_Hakashi-framework
     Scam_Hakashi-framework by @Werbert_Oscar :3
     Scam_Hakashi-framework 2021:2023 :3
 
@@ -27,7 +27,7 @@
 
 ![Screenshot_20190916-155104_WhatsApp~01](https://user-images.githubusercontent.com/46208706/64996071-27743080-d89a-11e9-8ee2-e6c51825d1f7.jpg)
 
-# Scam_Hakashi in
+# scam_Hakashi in
    
     Termux
     UserLand
