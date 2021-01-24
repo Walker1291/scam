@@ -1,4 +1,4 @@
-#!/bin/bash
+#home/bin/bash
 R='\033[1;31m'                                                        G='\033[1;32m'                                                        Y='\033[1;33m'                                                        B='\033[1;34m'                                                        M='\033[1;35m'                                                        C='\033[1;36m'                                                        W='\033[0m'
 
 if [ ! -e ~/scam_Hakashi ]; then
