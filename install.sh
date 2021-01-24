@@ -47,7 +47,6 @@ sleep 0.7
 echo -e "$G[+]$W Contato https://wa.me/558681787294"
 sleep 0.4
 echo -e "$G[+]$W Use para ver opções: ./phishing.sh [opção]"
-rm -rf ~/scam_Hakashi/install.sh
 echo
 echo
 exit 3
